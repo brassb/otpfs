@@ -101,7 +101,7 @@ OTPFS_Mount_point.
 DISCLAIMER:
 
 This software is provided free and open-source, as-is, and comes with no
-warranty or assumption of any liability on the author(s) of the software.
+warranty or assumption of any liability by the author(s) of the software.
 Read the GNU GPL (General Public License) for details on how this works.
 
 This is NOT production software.  DO NOT, under any circumstances, rely on

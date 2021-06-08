@@ -748,7 +748,7 @@ static struct fuse_operations operations = {
   .readlink = do_readlink,
   .link     = do_link,
 
-  // Still DODO - Implement these:
+  // Still TODO - Implement these:
   //
   // .mknod       = do_mknod,
   // .destroy     = do_destroy,
